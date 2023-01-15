@@ -21,10 +21,10 @@ html{
 .main{
     
     height: 670px;
-    background-image: url("images/Audimain.jpg");
+/*     background-image: url("images/Audimain.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center center; */
     
     
 }
